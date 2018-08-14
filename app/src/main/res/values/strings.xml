@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TipOutCalculator</string>
+    <string name="total_tips">total tips:</string>
+</resources>
