@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">TipOutCalculator</string>
     <string name="total_tips">total tips:</string>
+    <string name="hostess_title">host/ess</string>
+    <string name="percent_sign">%</string>
+    <string name="runner_title">runner</string>
+    <string name="busser_title">busser</string>
+    <string name="bar_title">bar</string>
+    <string name="kitchen_title">kitchen/boh</string>
+    <string name="tip_out">total tip out</string>
+    <string name="take_home">take home</string>
 </resources>
